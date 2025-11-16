@@ -1,10 +1,10 @@
-package org.eclipse.jgit.android.compat;
+package org.eclipse.jgit.compatible;
 
 import java.util.zip.DataFormatException;
 import java.util.zip.Inflater;
 
 /**
- *
+ * Android Inflater Compatible
  */
 public class InflaterCompat extends Inflater {
 

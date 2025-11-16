@@ -13,7 +13,7 @@ package org.eclipse.jgit.lib;
 
 import java.util.zip.Inflater;
 
-import org.eclipse.jgit.android.compat.InflaterCompat;
+import org.eclipse.jgit.compatible.InflaterCompat;
 
 /**
  * Creates zlib based inflaters as necessary for object decompression.
